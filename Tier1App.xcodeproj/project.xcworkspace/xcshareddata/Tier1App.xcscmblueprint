@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E93E88374DF07B4B6B20C5CD68B6B56A338F3549+++46649C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++18FFABE" : 9223372036854775807,
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++E13858F" : 9223372036854775807,
+    "E93E88374DF07B4B6B20C5CD68B6B56A338F3549+++46649C6" : 9223372036854775807,
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++0DCFC29" : 9223372036854775807,
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++57F7554" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46BD9CB3-FB7E-4673-8934-DB5AA4E9BCB6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++18FFABE" : "Tier1App%202\/Tier1App\/TierOneApp\/TierOneApp\/",
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++E13858F" : "Tier1App%202\/Tier1App\/TierOneApp\/TierOneApp\/",
+    "E93E88374DF07B4B6B20C5CD68B6B56A338F3549+++46649C6" : "Tier1App\/",
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++0DCFC29" : "Tier1App%202\/Tier1App\/TierOneApp\/TierOneApp\/",
+    "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++57F7554" : "Tier1App%202\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tier1App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tier1App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Conrawr422\/Tier-1-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++0DCFC29"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Conrawr422\/Tier1App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++18FFABE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Conrawr422\/Tier1App",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++57F7554"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Conrawr422\/Tier1App",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FF1CCB4B7BFBAE301057E218AC710E888D632E9+++E13858F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Conrawr422\/Tier-1-App",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E93E88374DF07B4B6B20C5CD68B6B56A338F3549+++46649C6"
+    }
+  ]
+}
