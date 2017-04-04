@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Tier1App
+//  TierOneApp
 //
-//  Created by CRESS, CONNER on 4/4/17.
-//  Copyright © 2017 CRESS, CONNER. All rights reserved.
+//  Created by CRESS, CONNER on 12/12/16.
+//  Copyright © 2016 CRESS, CONNER. All rights reserved.
 //
 
 import UIKit
